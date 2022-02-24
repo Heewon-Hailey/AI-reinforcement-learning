@@ -3,7 +3,7 @@
 ## About the project
 
 This work aims to understand Markov Decision Processes(MDPs) by implementing reinforcement learning algorithms and some advanced concepts. 
-MDPs can address most of the Reinforcement Learning (RL) problems, and thus it is popular in Articial Intelligence (AI) for modelling sequential decision making.
+MDPs can address most of the Reinforcement Learning (RL) problems, and thus it is popular in Artificial Intelligence (AI) for modelling sequential decision making.
 
 It relates to the tasks at https://berkeleyai.github.io/cs188-website/project3.html.<br>
 To find full description about tasks, click the link above.
